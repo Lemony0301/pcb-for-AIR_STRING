@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "arduino")(type "Legacy")(uri "D:/KiCad_Extension_Library/arduino-kicad-library-master/arduino.lib")(options "")(descr ""))
+  (lib (name "promicro")(type "Legacy")(uri "C:/Users/han20/Desktop/ProMicroKiCad-master/ProMicroKiCad-master/promicro_library/promicro.lib")(options "")(descr ""))
+)
